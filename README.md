@@ -1,4 +1,4 @@
-# Project 15: Real-Time Healthcare Anomaly Detection
+# Real-Time Healthcare Anomaly Detection
 
 ## 🎯 Overview
 Real-time monitoring of patient vital signs with clinical-grade anomaly detection.
